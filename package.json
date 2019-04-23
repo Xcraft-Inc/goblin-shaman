@@ -1,0 +1,23 @@
+{
+  "name": "goblin-shaman",
+  "version": "0.0.1",
+  "description": "Goblin for diagnostics",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "config": {
+    "xcraft": {
+      "commands": true
+    }
+  },
+  "dependencies": {
+    "heapdump": "^0.3.12",
+    "xcraft-core-goblin": "^2.0.0"
+  },
+  "devDependencies": {
+    "xcraft-dev-rules": "^0.4.0",
+    "prettier": "1.16.4"
+  }
+}
