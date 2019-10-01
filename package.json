@@ -13,7 +13,6 @@
     }
   },
   "dependencies": {
-    "active-handles": "^1.1.0",
     "heapdump": "^0.3.12",
     "xcraft-core-goblin": "^3.0.0"
   },
@@ -21,6 +20,9 @@
     "prettier": "1.18.2",
     "xcraft-dev-prettier": "^1.0.0",
     "xcraft-dev-rules": "^1.0.2"
+  },
+  "optionalDependencies": {
+    "active-handles": "^1.1.0"
   },
   "prettier": "xcraft-dev-prettier"
 }
