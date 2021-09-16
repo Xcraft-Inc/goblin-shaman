@@ -13,8 +13,8 @@
     }
   },
   "dependencies": {
-    "xcraft-core-goblin": "^4.0.1",
-    "xcraft-core-host": "^2.3.0"
+    "xcraft-core-goblin": "^5.0.0",
+    "xcraft-core-host": "^3.0.0"
   },
   "optionalDependencies": {
     "heapdump": "^0.3.15"
